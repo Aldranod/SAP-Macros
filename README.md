@@ -1,0 +1,6 @@
+# SAP-Macros
+Simple SAP macros to automate material masterdata tasks
+
+Subteam Checker allows user to assign material type, authorization group and plants to provided material numbers and then look up them with correct user group.
+
+SCOC notification tool utilizes possibility to look up masterdata settings for given materials and send email notification about them to given adress/group of users.
